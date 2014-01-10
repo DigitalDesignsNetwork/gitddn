@@ -456,7 +456,8 @@ Small Device Styles
 	background-color:#558c12;
 	text-decoration:none;
 }.menu_button:active {
+	background-color:#558c12;
+	text-decoration:none;
 	position:relative;
 	top:1px;
-	text-decoration:none;
 }
