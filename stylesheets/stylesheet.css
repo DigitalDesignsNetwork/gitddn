@@ -461,3 +461,9 @@ Small Device Styles
 	position:relative;
 	top:1px;
 }
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+} 
